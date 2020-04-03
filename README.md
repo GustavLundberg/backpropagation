@@ -1,1 +1,1 @@
-"Backpropagation of a neural network" 
+Backpropagation of a neural network
